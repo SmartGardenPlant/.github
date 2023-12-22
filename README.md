@@ -1,3 +1,5 @@
+![App Preview](https://github.com/SmartGardenPlant/.github/blob/main/logo_smartgarden_fix.png)
+
 # Smart Garden
 
 Introduce an application that has the function of recognizing plants from image recognition. This application not only has the feature of recognizing plants from images, but as a community place and assistant application to notify the maintenance of stored plants. 
